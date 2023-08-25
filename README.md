@@ -1,6 +1,6 @@
-<h1 align="center" margin-bottom=20px >Hi 👋, I'm Sahilpreet Singh</h1>
+<h1 align="left" margin-bottom=20px >Hi 👋 I'm Sahil</h1>
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/preetsahil/preetsahil/assets/98658499/398badce-71ec-4f71-92a9-c1c1c9f817d0)
 
-  ![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/preetsahil/preetsahil/assets/98658499/451137d9-7ed7-41fb-bd26-cbcaec9582aa)
 <h3 align="center" margin-top=20px >👨‍💻 Crafting Comprehensive Solutions | Full Stack Developer 🌐 | Embarking on DevOps and Blockchain Journeys | Seeking Wisdom in Books 📚"</h3>
 
 - 🌱 I’m currently learning **devops**

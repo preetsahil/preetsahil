@@ -1,5 +1,5 @@
 <h1 align="left" margin-bottom=20px >Hi 👋 I'm Sahil</h1>
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/preetsahil/preetsahil/assets/98658499/10d973e9-7398-4393-91e8-bf72fe798ffc)
+(https://github.com/preetsahil/preetsahil/assets/98658499/10d973e9-7398-4393-91e8-bf72fe798ffc)
 <h3 align="center" margin-top=20px >👨‍💻 Crafting Comprehensive Solutions | Full Stack Developer 🌐 | Embarking on DevOps and Blockchain Journeys | Seeking Wisdom in Books 📚"</h3>
 
 - 🌱 I’m currently learning **devops**

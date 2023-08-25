@@ -1,5 +1,6 @@
 <h1 align="left" margin-bottom=20px >Hi 👋 I'm Sahil</h1>
-![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/preetsahil/preetsahil/assets/98658499/3f001a26-88c5-4b8f-9365-376d0e60acb4)
+
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/preetsahil/preetsahil/assets/98658499/2806327c-207a-4c10-8808-eecdff18c200)
 
 
 

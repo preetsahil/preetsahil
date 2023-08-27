@@ -7,6 +7,7 @@
 <h3 align="center" margin-top=20px >👨‍💻 Crafting Comprehensive Solutions | Full Stack Developer 🌐 | Embarking on DevOps and Blockchain Journeys | Seeking Wisdom in Books 📚"</h3>
 
 - 🌱 I’m currently learning **devops**
+- 📫 How to reach me **sahil711preet@gmail.com**
 
 
 
@@ -42,7 +43,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=preetsahil&show_icons=true&locale=en" alt="preetsahil" /></p>
+<hr>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=preetsahil&show_icons=true&locale=en" alt="preetsahil" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetsahil&" alt="preetsahil" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetsahil&" alt="preetsahil" /></p>
 

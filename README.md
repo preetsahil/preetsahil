@@ -2,6 +2,7 @@
 
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/preetsahil/preetsahil/assets/98658499/2806327c-207a-4c10-8808-eecdff18c200)
 
+[![An image of @preetsahil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preetsahil)](https://holopin.io/@preetsahil)
 
 
 <h3 align="center" margin-top=20px >👨‍💻 Crafting Comprehensive Solutions | Full Stack Developer 🌐 | Seeking Wisdom in Books 📚"</h3>
